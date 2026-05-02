@@ -1,9 +1,4 @@
 # 🔐 Penetration Testing Tips Encyclopedia
-
-> Compiled by **Abdalla Abdelrhman** — Security Engineer  
-> Web • Mobile • API • Cloud Security (AWS, Azure, GCP) • AD • AI/LLM  
-> Internal and External Network Infrastructure • Adversary Emulation / Red Teaming
-
 ---
 
 ## 📖 Overview
